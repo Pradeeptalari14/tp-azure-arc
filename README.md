@@ -1,8 +1,10 @@
 # 🌐 Azure Arc Hybrid Management Studio
 > Extend Azure control plane to external Kubernetes and bare-metal nodes. Generate onboarding scripts, policy assignments, and Azure Monitor telemetry agents bindings.
 
-[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari14.github.io/portfolio/tools/azure-arc/)
+[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari.me/tools/azure-arc/)
 [![Category](https://img.shields.io/badge/Category-cloud-blue)]()
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
 
 ---
 
@@ -132,7 +134,10 @@ Triggers cloud alerts on cost budget breaches, node terminations, or replication
 
 | Resource | Link |
 |----------|------|
-| Interactive Studio | [Open →](https://pradeeptalari14.github.io/portfolio/tools/azure-arc/) |
-| All 91 Studios | [Dashboard →](https://pradeeptalari14.github.io/portfolio/tools/) |
+| Interactive Studio | [Open →](https://pradeeptalari.me/tools/azure-arc/) |
+| All 91 Studios | [Dashboard →](https://pradeeptalari.me/tools/) |
 
-*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari14.github.io/portfolio)*
+*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari.me)*
+
+---
+*Synchronized with [Azure Arc Hybrid Management Studio Studio](https://pradeeptalari.me/tools/azure-arc/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
